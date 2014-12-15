@@ -14,6 +14,18 @@ Det finns dock ett API för blocket som är skrivet av en tredjepart som heter <
 Min tanke är att en google marker(eller liknande) ska presenteras per kommun i länet. I markern ska det finnas information som matchar en sökningen. Man kan härifrån länkas till annonsens hemsida på blocket.
 </p>
 <p>
+funktionalitet som ska finnas är:
+<ul>
+<li>val av län.</li>
+<li>val av kategori.</li>
+<li>sökning av artikel.</li>
+</ul>
+Presentation:
+<ul>
+<li>En marker per kommun på google maps, innehållande lista på annonser från blocket som matchade sökningen från.</li>
+</ul>
+</p>
+<p>
 Tekniker jag tänker använda mig av är PHP, js, jquery.
 I mån om tid tänker jag försöka att implementera node och sockets.io.
 </p>
