@@ -17,3 +17,5 @@ Min tanke är att en google marker(eller liknande) ska presenteras per kommun i 
 Tekniker jag tänker använda mig av är PHP, js, jquery.
 I mån om tid tänker jag försöka att implementera node och sockets.io.
 </p>
+
+<a href="http://eerie.se/ProjektMashup/">Applikationen, än så länge</a>
